@@ -8,12 +8,11 @@ passionate about building real-world solutions through code.
 - 💻 VB.NET – Windows Forms Applications
 - 🗄️ Databases – SQL & Systems Analysis
 - 📊 Project Management – CPM, PERT, Gantt Charts
-- 🐍 Python – Currently learning
+
 
 ## 🌱 Currently Learning
-- Python (Cisco NetAcad – Python Essentials)
-- Web Development (freeCodeCamp)
-- Microsoft Azure Fundamentals
+- AWS cloud practitioner
+- Computer hardware and software(Cisco NetAcad - IT Essentials)
 
 ## 🎯 Goals for 2027
 - Complete my NC(V) Level 3
@@ -22,7 +21,7 @@ passionate about building real-world solutions through code.
 
 ## 📫 How to reach me
 - 📍 Cape Town, South Africa
-- 🎓 False Bay College – ITC3B
+- 🎓 False Bay College – ITC3A
 
 ---
 ⭐ *"Every expert was once a beginner."*
