@@ -22,6 +22,8 @@ passionate about building real-world solutions through code.
 ## 📫 How to reach me
 - 📍 Cape Town, South Africa
 - 🎓 False Bay College – ITC3A
+- keapatience576@gmail.com
+- www.linkedin.com/in/kealeboga-modisaotsile-5bb056265
 
 ---
 ⭐ *"Every expert was once a beginner."*
